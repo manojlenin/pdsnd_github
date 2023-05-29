@@ -11,7 +11,8 @@ Bikeshare Project
 This project is about analyzes of bike share data from 3 major cities from US
 
 ### Files used
-Include the files used
+1) Bikeshare.py
+2) Python lib files
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
