@@ -15,5 +15,6 @@ This project is about analyzes of bike share data from 3 major cities from US
 2) Python lib files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://docs.python.org/3/
+https://stackoverflow.com/
 
