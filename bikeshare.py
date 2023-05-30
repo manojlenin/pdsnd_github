@@ -79,7 +79,7 @@ def get_user_input(inputdesp, listtocheck):
         """By Manoj:- Counter is compared with no_of_tried, everytime user entered a wrong data. if counter value is greater that no of tries then the 
         program exists at line 82"""
         if counter >= no_of_tries:
-            sys.exit("Exiting program, get correct data and try again!")
+            sys.exit("Exiting program, get correct data and try again :)")
             break
         else:
             print("Chances left are : {}/{}\n".format((no_of_tries - counter), no_of_tries))
@@ -360,7 +360,7 @@ def main():
         except Exception as erx:
 
             """By Manoj:- If theres other exception, the programe will print the error and return to the loop"""
-            print("Need attention to error ", (type(erx).__name__),erx.args)
+            print("This error is not related to data. Check your code. ", (type(erx).__name__),erx.args)
 
         """"By Manoj:- Based on the return value from funtion is_user_want_to_continue(), the current while loop will be decided. If the 
          function returns Trie the loop breaks otherwise it continues."""
