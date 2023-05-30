@@ -10,8 +10,9 @@ Bikeshare information analysis
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+New York City, Washington and Chicago
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/
+https://docs.python.org/3/
 
